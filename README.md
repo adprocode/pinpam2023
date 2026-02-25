@@ -54,5 +54,22 @@
          alt="Credly Badge"
          width="320" height="200" />
   </a>
-
+<table>
+  <tr>
+    <th>Tecnología</th>
+    <th>Descripción</th>
+    <th>Video Demo</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js" />
+    </td>
+    <td><strong>Proyecto Personal en Node.js</strong><br>Demostracion de motor grafico. Node + pixie + webgl2</td>
+    <td align="center">
+      <a href="https://www.youtube.com/watch?v=ZzSjbQltfAA&list=PLieEjYMoKH5KIGC2_lP58RsMbMOsLTeAU&index=1" target="_blank">
+        <img src="https://img.shields.io/badge/YouTube-Ver_Showoff-red?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" />
+      </a>
+    </td>
+  </tr>
+</table>
 
