@@ -1,6 +1,7 @@
 
 <p align="center">
- <img width="1497" height="392" alt="image" src="https://media.licdn.com/dms/image/v2/D4D16AQGoeM-33VnlQQ/profile-displaybackgroundimage-shrink_350_1400/B4DZhk.THNH4AY-/0/1754040710579?e=1756944000&v=beta&t=rTVvQr1fi8be7tgkjVODihul9H4Zr8zXOO2K4bQG6Cs" />
+<img width="1400" height="349" alt="image" src="https://github.com/user-attachments/assets/03acdf60-a002-4d43-b6f7-22f529729a72" />
+
 
 </p>
 
