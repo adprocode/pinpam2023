@@ -54,7 +54,8 @@
          alt="Credly Badge"
          width="320" height="200" />
   </a>
-  ## 🌐 Proyectos personales en curso 
+  
+## 🌐 Proyectos personales en curso 
 <table>
   <tr>
     <th>Tecnología</th>
